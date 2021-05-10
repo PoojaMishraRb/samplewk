@@ -99,6 +99,10 @@ section{
 .form{
 	width:100%;
 }
+.form2{
+	width:50%;
+	float:right;
+}
 .ourloc{
 	font-weight:700;
 	float:right;
