@@ -96,9 +96,7 @@ section{
    height:150px;
 	width:200px;
 }
-.form{
-	width:100%;
-}
+
 .ourloc{
 	font-weight:700;
 	float:right;
@@ -119,7 +117,7 @@ margin:0px;
     position:sticky;
 	bottom:0px;
 	background-color:#139139;
-	height:60px;
+	height:70px;
 	width:100%;
 	position:fixed;
 	bottom:0px;
