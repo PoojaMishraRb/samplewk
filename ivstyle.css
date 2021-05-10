@@ -100,6 +100,7 @@ section{
 	width:100%;
 }
 .form2{
+	padding-top:0%;
 	width:50%;
 	float:right;
 }
@@ -123,7 +124,7 @@ margin:0px;
     position:sticky;
 	bottom:0px;
 	background-color:#139139;
-	height:70px;
+	height:60px;
 	width:100%;
 	position:fixed;
 	bottom:0px;
